@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages。
+## Welcome to SakurajimaMai02's homepage!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content 
 
 ### Markdown
 
