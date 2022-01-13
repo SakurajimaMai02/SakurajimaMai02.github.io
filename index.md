@@ -1,7 +1,5 @@
 ## Welcome to SakurajimaMai02's homepage!
 
-### 
-
 ```
 TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
 
