@@ -1,7 +1,7 @@
 # Welcome to SakurajimaMai02's homepage!
 
 ```
-TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
+Hey!Here is SaiurajimaMai02's homepage!You can find my latest projects here(and some interesting things idk)
 ```
 ---
 
