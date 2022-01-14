@@ -1,3 +1,3 @@
-###   ClickHere     ⬇️     
-# ➡️➡️ [Homepage](https://SakurajimaMai02.github.io)⬅️⬅️
+###   ClickHere     ⬇️    
+# ➡️ [Homepage](https://SakurajimaMai02.github.io)⬅️
 ###   ClickHere     ⬆️
