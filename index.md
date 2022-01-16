@@ -41,7 +41,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [Tenacity](intent.store)
 
-- [Hanabi](https://andromeda.wtf)
+- [Hanabi](https://hanabi.life)
 
 - [Whiteout(ghost)](https://andromeda.wtf)
 
