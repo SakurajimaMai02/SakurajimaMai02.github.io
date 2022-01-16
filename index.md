@@ -21,7 +21,9 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [抠图](https://remove.bg)
 
-- [pixivic](https://xm.sb)
+- [Pixivic](https://xm.sb)
+
+- [MINECRAFT ALT ACCOUNTS SHOP](alts.top)
 
 ---
 
