@@ -11,7 +11,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 ---
 
-# Something Interesting...
+# Something Interesting and Useful:
 
 - [资料参闻馆](https://ubc26.github.io/links/menu.html)
 
@@ -25,7 +25,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 ---
 
-# Minecraft Hack Clients
+# Minecraft Hack Clients:
 
 - [Novoline@intent](intent.store)
 
