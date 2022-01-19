@@ -23,41 +23,41 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [Pixivic](https://xm.sb)
 
-- [MINECRAFT ALT ACCOUNTS SHOP](alts.top)
+- [MINECRAFT ALT ACCOUNTS SHOP](https://alts.top)
 
 ---
 
 # Minecraft Hack Clients:
 
-- [Novoline@intent](intent.store)
+- [Novoline@intent](https://intent.store)
 
-- [Astolfo](astolfo.lgbt)
+- [Astolfo](https://astolfo.lgbt)
 
-- [FDP](getfdp.today)
+- [FDP](https://getfdp.today)
 
-- [Novoline@wtf](novoline.wtf)
+- [Novoline@wtf](https://novoline.wtf)
 
-- [LiquidBounce](liquidbounce.net)
+- [LiquidBounce](https://liquidbounce.net)
 
-- [Flux](flux.today)
+- [Flux](https://flux.today)
 
-- [Tenacity](intent.store)
+- [Tenacity](https://intent.store)
 
 - [Hanabi](https://hanabi.life)
 
 - [Whiteout(ghost)](https://andromeda.wtf)
 
-- [Pulsive](intent.store)
+- [Pulsive](https://intent.store)
 
-- [Rise](intent.store)
+- [Rise](https://intent.store)
 
-- [Zeroday](intent.store)
+- [Zeroday](https://intent.store)
 
-- [Eternal](intent.store)
+- [Eternal](https://intent.store)
 
-- [Azura](intent.store)
+- [Azura](https://intent.store)
 
-- [Vape(Ghost)](Vape.gg)
+- [Vape(Ghost)](https://Vape.gg)
 
 ---
 
