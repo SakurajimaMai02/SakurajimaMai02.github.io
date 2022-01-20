@@ -45,7 +45,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [Hanabi](https://hanabi.life)
 
-- [Whiteout(ghost)](https://andromeda.wtf)
+- [Whiteout(Ghost)](https://andromeda.wtf)
 
 - [Pulsive](https://intent.store)
 
