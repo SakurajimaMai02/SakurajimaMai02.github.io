@@ -11,7 +11,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 ---
 
-![](https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02.github.io/main/images/DC7EED4F-4897-437B-AD1E-EA5960B4058E.jpeg)
+![]()
 
 # Something Interesting and Useful:
 
