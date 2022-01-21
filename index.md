@@ -11,6 +11,8 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 ---
 
+![](https://raw.githubusercontent.com/SakurajimaMai02/Piano-Scores/main/images/44922DCF-A67E-461A-9ABF-805EF374681F.jpeg)
+
 # Something Interesting and Useful:
 
 - [动漫及电影搜索引擎](https://xsear.ch)**（Best）**
