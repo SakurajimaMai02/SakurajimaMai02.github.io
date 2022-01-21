@@ -17,9 +17,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [资料参闻馆](https://ubc26.github.io/links/menu.html)
 
-- [Voiux](https://tuku.voiux.com)
-
-- [抠图](https://remove.bg)
+- [抠图工具](https://remove.bg)
 
 - [Pixivic](https://xm.sb)
 
