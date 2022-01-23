@@ -29,10 +29,6 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [抠图工具](https://remove.bg)
 
-- [Pixivic](https://xm.sb)
-
-- [MINECRAFT ALT ACCOUNTS SHOP](https://alts.top)
-
 ---
 
 # Minecraft Hack Clients:
