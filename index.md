@@ -19,6 +19,8 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [俄罗斯方块](https://chvin.github.io/react-tetris/)
 
+- [Flappy Bird](https://sakurajimamai02.github.io/Flappy-Bird/index.html)
+
 - [合成大欧派](https://watermelon.sannaha.moe)
 
 ---
@@ -71,7 +73,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 **To be continue.**
 
-<a href="https://twitter.com">
+<a href="https://twitter.com/zerotwo705">
   <img align="right" alt="SakurajimaMai02 | Twitter" width="21px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/twitter.svg" />
 </a>
 <a href="https://space.bilibili.com/1667002275"><img align="right" alt="SakurajimaMai02 | Bilibili" width="20px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/bili-icon.svg" />
