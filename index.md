@@ -78,3 +78,5 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 </a>
 <a href="https://space.bilibili.com/1667002275"><img align="right" alt="SakurajimaMai02 | Bilibili" width="20px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/bili-icon.svg" />
 </a>
+<a href="https://music.163.com/#/user/home?id=398680519"><img align="right" alt="SakurajimaMai02 | Netease-Cloud-Music" width="21px" src="https://raw.githubusercontent.com/SakurajimaMai02/SakurajimaMai02/main/assets/163Music-icon.svg" />
+</a>
