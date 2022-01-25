@@ -8,7 +8,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 # My Projects: 
 
 <a href="https://github.com/sakurajimamai02/piano-scores">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakurajimamai02&repo=piano-scores&theme=maroongold" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakurajimamai02&repo=piano-scores&theme=default" />
 </a>
 
 ---
