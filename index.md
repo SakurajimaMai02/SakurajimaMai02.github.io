@@ -23,6 +23,8 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [合成大欧派](https://watermelon.sannaha.moe)
 
+- [国际象棋](https://lichess.org/)
+
 ---
 
 # Something Interesting and Useful:
