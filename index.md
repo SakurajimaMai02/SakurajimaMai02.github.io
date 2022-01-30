@@ -25,6 +25,8 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [国际象棋](https://lichess.org/)
 
+- [Sliding-Puzzle](https://sakurajimamai02.github.io/Sliding-Puzzle)
+
 ---
 
 # Something Interesting and Useful:
