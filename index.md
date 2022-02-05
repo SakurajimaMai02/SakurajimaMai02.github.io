@@ -40,6 +40,13 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 - [VirusTotal](https://www.virustotal.com/gui/)
 
 - [PornHub Logo Customize](https://www.logoly.pro/)
+
+- [文件传输](https://send-anywhere.com)
+
+- [蓝奏云](https://pc.woozooo.com/account.php?action=login&ref=/mydisk.php)
+
+- [奶牛快传](https://cowtransfer.com)
+
 ---
 
 # Minecraft Hack Clients:
