@@ -25,4 +25,4 @@
 >>Infinite
 >
 >
->Infinite
+>Finite
