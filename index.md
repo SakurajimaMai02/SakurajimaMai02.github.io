@@ -31,7 +31,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 # Something Interesting and Useful:
 
-- [XSearch](https://xsear.ch)(Unavailable now）
+- [XSearch](https://xsear.ch)
 
 - [资料参闻馆](https://ubc26.github.io/links/menu.html)
 
@@ -41,7 +41,7 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [PornHub Logo Customize](https://www.logoly.pro/)
 
-- [文件传输](https://send-anywhere.com)
+- [Send-Anywhere](https://send-anywhere.com)
 
 - [蓝奏云](https://pc.woozooo.com/account.php?action=login&ref=/mydisk.php)
 
