@@ -4,25 +4,3 @@
 
 - ***Testing HTML/CSS/JS online games.***
 
->>>>>>>>Infinite
->>>>>>>
->>>>>>>
->>>>>>>Infinite
->>>>>>
->>>>>>
->>>>>>Infinite
->>>>>
->>>>>
->>>>>Infinite
->>>>
->>>>
->>>>Infinite
->>>
->>>
->>>Infinite
->>
->>
->>Infinite
->
->
->Finite
