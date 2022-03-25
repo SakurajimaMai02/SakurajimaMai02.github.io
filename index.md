@@ -47,6 +47,8 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [奶牛快传](https://cowtransfer.com)
 
+- [祖安宝典](https://doubi.ren/zuanbot/)
+
 ---
 
 # Minecraft Hack Clients:
