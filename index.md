@@ -33,6 +33,8 @@ Hi!Here is SaiurajimaMai02's homepage!You can find my latest projects and some i
 
 - [XSearch](https://xsear.ch)
 
+- [樱花动漫](https://yhdmp.cc)
+
 - [资料参闻馆](https://ubc26.github.io/links/menu.html)
 
 - [抠图工具](https://remove.bg)
